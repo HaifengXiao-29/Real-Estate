@@ -1,5 +1,5 @@
 [![npm version](https://badge.fury.io/js/angular2-expandable-list.svg)](https://badge.fury.io/js/angular2-expandable-list)
-# HOUSING-RENTAL
+# REAL-ESTATE
 
 >This is a Rental System open to U.S residents acroos all states
 
